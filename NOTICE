@@ -1,0 +1,9 @@
+GrokDay palette
+Copyright 2023-2026 SpaceXAI
+
+The color values in grokday.json are taken from
+https://github.com/xai-org/grok-build
+crates/codegen/xai-grok-pager-render/src/theme/grokday.rs
+
+That work is licensed under the Apache License, Version 2.0.
+A copy of the license is included in this repository.

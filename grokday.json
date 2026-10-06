@@ -1,0 +1,23 @@
+{
+    "name": "GrokDay",
+    "background": "#EEEEEE",
+    "foreground": "#262626",
+    "cursorColor": "#444444",
+    "selectionBackground": "#C6C6C6",
+    "black": "#262626",
+    "red": "#CD3048",
+    "green": "#378E23",
+    "yellow": "#A27612",
+    "blue": "#2F64D2",
+    "purple": "#7D4BC6",
+    "cyan": "#0082AA",
+    "white": "#444444",
+    "brightBlack": "#626262",
+    "brightRed": "#AF2323",
+    "brightGreen": "#0C947C",
+    "brightYellow": "#A8780A",
+    "brightBlue": "#28448A",
+    "brightPurple": "#6C3EB2",
+    "brightCyan": "#0A8E70",
+    "brightWhite": "#262626"
+}
